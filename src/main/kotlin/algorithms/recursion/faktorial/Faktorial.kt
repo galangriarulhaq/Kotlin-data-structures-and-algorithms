@@ -1,2 +1,0 @@
-package algorithms.recursion.faktorial
-
