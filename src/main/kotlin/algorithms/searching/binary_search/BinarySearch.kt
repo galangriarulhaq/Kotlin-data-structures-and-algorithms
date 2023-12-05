@@ -1,4 +1,4 @@
-package algorithms.searching.binarysearch
+package algorithms.searching.binary_search
 
 class BinarySearch {
 

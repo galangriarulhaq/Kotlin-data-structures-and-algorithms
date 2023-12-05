@@ -1,11 +1,11 @@
-package algorithms.searching.interpolationsearch
+package algorithms.searching.interpolation_search
 
 class InterpolationSearch {
 
     /**
-     * Performs a interpolation search on an array of integers to find the index of a specified key.
+     * Performs an interpolation search on an array of integers to find the index of a specified key.
      *
-     * @param arr the array to search
+     * @param array the array to search
      * @param key the value to search for
      * @returns a message indicating the position of its index element if it was found, or if not found returns -1
      */
