@@ -3,7 +3,7 @@ package algorithms.searching.sequential_search
 class SequentialSearch {
 
     /**
-     * Performs a linear search on an array of integers to find the index of a specified key.
+     * Performs a sequential search on an array of integers to find the index of a specified key.
      *
      * @param arr the array to search
      * @param key the value to search for
