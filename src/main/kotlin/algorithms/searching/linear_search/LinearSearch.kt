@@ -24,6 +24,6 @@ fun main() {
 
     val linearSearch = LinearSearch()
     val arr = intArrayOf(12, 45, 69, 78, 89, 54)
-    val answer = linearSearch.linearSearch(arr, 69)
-    println(answer)
+    val result = linearSearch.linearSearch(arr, 69)
+    println(result)
 }
