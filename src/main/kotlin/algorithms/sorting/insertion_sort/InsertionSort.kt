@@ -29,6 +29,12 @@ fun insertionSort(array: ArrayList<Int>) {
     }
 }
 
+/*
+*  Insertion Sort has a time complexity of O(n^2) in the worst case, but tends to perform well for data sets
+*  that are nearly ordered or have a small number of elements. Although not as fast as some other sorting algorithms,
+*  Insertion Sort has the advantage of being able to perform in-place sorting without requiring additional space.
+*/
+
 fun main() {
     val numbers = ArrayList(listOf(99, 44, 6, 2, 1, 5, 63, 87, 283, 4, 0))
     // before
