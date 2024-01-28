@@ -58,3 +58,14 @@ This is a GitHub repository containing implementations and explanations of vario
 ### Get started
 1. Clone or download the repository and open it on your favorite IDE. (Recommended IDE: [IntelliJ IDEA](https://www.jetbrains.com/idea/download/))
 2. Checkout the implementation and explanation of various data structures and algorithms and try them out.
+
+
+
+[contributors-shield]: https://img.shields.io/github/contributors/Galang211/Kotlin-data-structures-and-algorithms.svg?style=for-the-badge
+[contributors-url]: https://github.com/Galang211/Kotlin-data-structures-and-algorithms/graphs/contributors
+[stars-shield]: https://img.shields.io/github/stars/Galang211/Kotlin-data-structures-and-algorithms.svg?style=for-the-badge
+[stars-url]: https://github.com/Galang211/Kotlin-data-structures-and-algorithms/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Galang211/Kotlin-data-structures-and-algorithms.svg?style=for-the-badge
+[issues-url]: https://github.com/Galang211/Kotlin-data-structures-and-algorithms/issues
+[forks-shield]: https://img.shields.io/github/forks/Galang211/Kotlin-data-structures-and-algorithms.svg?style=for-the-badge
+[forks-url]: https://github.com/Galang211/Kotlin-data-structures-and-algorithms/network/members
