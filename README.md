@@ -1,4 +1,15 @@
-![DSA in Kotlin](kotlin-banner.png)
+[![Contributors][contributors-shield]][contributors-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![Forks][forks-shield]][forks-url]
+
+
+<br />
+<p align="center">
+  <a href="https://github.com/Galang211/Kotlin-data-structures-and-algorithms">
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*4K6AyWeF-pPmqoL9Yb2Shg.png" width='600dp' alt="Logo" >
+  </a>
+
 ## Data Structures and Algorithms in Kotlin
 This is a GitHub repository containing implementations and explanations of various data structures[⌝](https://en.wikipedia.org/wiki/Data_structure) and algorithms[⌝](https://en.wikipedia.org/wiki/Algorithm) in Kotlin programming language. The repository covers a wide range of topics including arrays, linked lists, stacks, queues, trees, sorting algorithms, searching algorithms, and dynamic programming. Each implementation is accompanied by clear and concise code comments explaining the purpose and functionality of the code. The repository provides a great resource for anyone looking to learn or improve their understanding of data structures and algorithms using Kotlin.
 
